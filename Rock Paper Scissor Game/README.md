@@ -1,4 +1,5 @@
-﻿<h1 align="center">
+# ROCK PAPER SCISSOR
+<h1 align="center">
   <br>
   <a href="https://github.com/18wh1a1220/RockPaperScissor"><img src="./icons/logo.gif" alt="RockPaperScissor"></a>
 </h1>
@@ -10,7 +11,7 @@ Paper–scissors-rock (also known as scissors-rock-paper or other variants) is a
 ## STEPS TO PLAY:
 
 
-1. Steps to plays game :
+ 1. Steps to plays game :
   For Window Users :
    Right Click On RockPaperScissors.py And Click Edit With Idle.
   <br>
