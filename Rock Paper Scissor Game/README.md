@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
   <br>
-  <a href="https://github.com/97shivank/RockPaperScissor"><img src="./icons/logo.gif" alt="RockPaperScissor"></a>
+  <a href="https://github.com/18wh1a1220/RockPaperScissor"><img src="./icons/logo.gif" alt="RockPaperScissor"></a>
 </h1>
 
 ## About Game:
@@ -62,7 +62,7 @@ HOPE YOU WILL ENJOY PLAYING IT….IF ANY ISSUES refer documentation.
 
 #### Steps to setup :
 
-1. `git clone https://github.com/97shivank/RockPaperScissor`
+1. `git clone https://github.com/18wh1a1220/RockPaperScissor`
 2. `cd RockPaperScissor`
 3. `python main.py`
 
